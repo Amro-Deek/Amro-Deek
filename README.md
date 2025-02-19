@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amro Deek</h1>
 <h3 align="center">A Computer Science Student from Palestine 🇵🇸</h3>
-
 <img align="right" alt="Coding width="400" src="https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amro-deek&label=Profile%20views&color=0e75b6&style=flat" alt="amro-deek" /> </p>
 
 - 📫 How to reach me **amrobasheer242@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/amro deek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amro deek" height="30" width="40" /></a>
