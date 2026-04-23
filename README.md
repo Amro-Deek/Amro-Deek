@@ -45,7 +45,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=500&auto=format&fit=crop" 
+        <img src="https://github.com/user-attachments/assets/eaf69bcb-c649-47ad-adf5-fa683f2b3f70" 
              alt="Dealna Project" 
              style="width:100%; height:200px; object-fit:cover; border-radius: 8px;"/>
       </a>
@@ -54,7 +54,7 @@
       <sub>Golang backend built with Hexagonal Architecture and OIDC/JWT Identity Federation.</sub><br/>
       🔗 <a href="#">Repo</a>
       <br/>
-      <sub>Tags: Golang, Microservices, Security</sub>
+      <sub>Tags: Golang, Monorepo, Security</sub>
     </td>
     <td align="center" width="33%">
       <a href="#">
