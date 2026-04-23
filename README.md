@@ -2,49 +2,87 @@
 <h3 align="center">Backend Engineer & Computer Science Student from Palestine 🇵🇸</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amro-deek&label=Profile%20views&color=0e75b6&style=flat" alt="amro-deek" />
+  <img src="https://komarev.com/ghpvc/?username=Amro-Deek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="رابط_الصورة_الجديدة_هنا" alt="Coding Banner" width="800" />
-</p>
-
-### 👨‍💻 About Me:
+## 👨‍💻 About Me
 - 🎓 **Computer Science Student** at **Birzeit University** (Class of 2026).
-- 💻 **Backend Developer** specializing in **Golang, Java, and Hexagonal Architecture**.
-- ☁️ Experienced in managing **AWS cloud infrastructure** (EC2, S3, Lambda) and enforcing secure access with **Keycloak IAM**.
-- 🤖 Passionate about **Cloud-Native engineering**, **High-concurrency systems**, and bridging AI research with production-grade applications using **RAG & Vector Search (Qdrant)**.
+- 💻 **Backend Developer** specializing in building scalable, production-ready systems using Golang and Java.
+- ☁️ Experienced in managing AWS cloud infrastructure and enforcing secure access with Keycloak IAM.
+- 🤖 Passionate about Cloud-Native engineering and bridging AI research with production using RAG & Vector Search.
 - 🏗️ Currently architecting **Dealna: The Campus Trust Protocol** as my graduation project.
 
-### 📫 How to reach me:
-**Email:** amrobasheer242@gmail.com
+---
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/amro-al-deek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amro-al-deek" height="40" width="50" /></a>
-  <a href="https://fb.com/amro deek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amro deek" height="40" width="50" /></a>
-  <a href="https://instagram.com/3mrodeek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3mrodeek" height="40" width="50" /></a>
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amro.deek) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3mrodeek) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amro-al-deek-a8a76a334/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrobasheer242@gmail.com) 
 
-<br>
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="45" height="45"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="45" height="45"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/keycloak" alt="keycloak" width="45" height="45"/></a>  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/74381368?s=200&v=4" alt="qdrant" width="45" height="45"/></a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="45" height="45"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
-</div>
-<br clear="both">
+---
+## 💻 Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,aws,docker,postgres,python,git,github,postman,figma,linux,flutter&theme=dark&perline=7)](https://skillicons.dev)
+
+![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+## 🚀 Projects - Showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=500&auto=format&fit=crop" 
+             alt="Dealna Project" 
+             style="width:100%; height:200px; object-fit:cover; border-radius: 8px;"/>
+      </a>
+      <br/><br/>
+      <b>Dealna: Campus Trust Protocol</b><br/>
+      <sub>Golang backend built with Hexagonal Architecture and OIDC/JWT Identity Federation.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Tags: Golang, Microservices, Security</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=500&auto=format&fit=crop" 
+             alt="AI Engine Project" 
+             style="width:100%; height:200px; object-fit:cover; border-radius: 8px;"/>
+      </a>
+      <br/><br/>
+      <b>Hybrid Semantic Search Engine</b><br/>
+      <sub>Architected search using Qdrant Vector DB (gRPC) and BAAI embeddings for neural intent-understanding.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Tags: AI, Qdrant, RAG</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?q=80&w=500&auto=format&fit=crop" 
+             alt="AWS Cloud Project" 
+             style="width:100%; height:200px; object-fit:cover; border-radius: 8px;"/>
+      </a>
+      <br/><br/>
+      <b>AWS Cloud Infrastructure</b><br/>
+      <sub>Orchestrated EC2 instances, S3 media pipes, and automated CI/CD workflows via GitHub Actions.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Tags: AWS, DevOps, Docker</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amro-deek&show_icons=true&locale=en&layout=compact" alt="amro-deek" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amro-deek&show_icons=true&locale=en" alt="amro-deek" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Amro-Deek&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Amro-Deek&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amro-Deek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
