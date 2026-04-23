@@ -21,14 +21,23 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrobasheer242@gmail.com) 
 
 ---
-## 💻 Tech Stack:
+<p align="center">
+  <span style="display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,spring,aws,docker,postgres,python,git,github,postman,figma,linux,flutter&theme=dark&perline=7)](https://skillicons.dev)
 
-![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<!-- skillicons -->
+<img src="https://skillicons.dev/icons?i=go,java,spring,postgres,aws,docker,python,flutter,linux,git,github,postman,figma,latex&theme=dark" />
+
+<!-- custom icons -->
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/android-auto.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/playwright-auto.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/swagger-auto.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/keycloak.svg" width="48"/>
+
+
+  </span>
+</p>
+
 
 ## 🚀 Projects - Showcase
 
