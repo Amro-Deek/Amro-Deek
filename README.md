@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amro Al-Deek</h1>
-<h3 align="center">Backend Engineer & Computer Science Student from Palestine 🇵🇸</h3>
+<h3 align="center">Software Engineer from Palestine 🇵🇸</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amro-Deek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science Student** at **Birzeit University** (Class of 2026).
+- 🎓 **B.Sc. in Computer Science** - **Birzeit University** (Class of 2026).
 - 💻 **Backend Developer** specializing in building scalable, production-ready systems using Golang and Java.
 - ☁️ Experienced in managing AWS cloud infrastructure and enforcing secure access with Keycloak IAM.
 - 🤖 Passionate about Cloud-Native engineering and bridging AI research with production using RAG & Vector Search.
