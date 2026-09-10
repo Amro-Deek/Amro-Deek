@@ -10,7 +10,6 @@
 - 💻 **Backend Developer** specializing in building scalable, production-ready systems using Golang and Java.
 - ☁️ Experienced in managing AWS cloud infrastructure and enforcing secure access with Keycloak IAM.
 - 🤖 Passionate about Cloud-Native engineering and bridging AI research with production using RAG & Vector Search.
-- 🏗️ Currently architecting **Dealna: The Campus Trust Protocol** as my graduation project.
 
 ---
 
